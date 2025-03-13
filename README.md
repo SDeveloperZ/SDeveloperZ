@@ -1,13 +1,15 @@
 
-   <h1>Hi there, I'm <a href="https://hemant.codes">Sergio</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   
-   
- <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+   <h1 align='center'>Hi there, I'm <a href="https://hemant.codes">Sergio</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1><br>
 
+## 😎 About me
+- ⭐ currently working on **web-development**
+- 🙌 Currently working for **Mayday Global**
+- ⚒ a **student** working his way around things
+     
+## 💻 Technologies <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+<br><img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /></a>
+<br>
 
-<br><br><br><br><br><br><br><br><br>
-
-## 💻 Technologies 
 
 <div>
   <img  alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -46,6 +48,19 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+
+## 👨🏻‍💻 Github stats
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=SDeveloperZ&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"/>
+    </td>
+    <td>
+      <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDeveloperZ&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
+    </td>
+  </tr>
+</table>
 
 ## 🤝🏻  Connect with Me
 <h3 align="center">Connect with me</h3>
