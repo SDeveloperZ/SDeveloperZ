@@ -52,10 +52,22 @@
 
 ## 👨🏻‍💻 GitHub Stats
 
-![Sergio's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=SDeveloperZ&show_icons=true&theme=algolia&count_private=true](https://github-readme-stats-eight-puce-59.vercel.app/api?username=SDeveloperZ))
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SDeveloperZ&layout=compact&theme=algolia)
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <img
+        width="500"
+        src="https://github-readme-stats-eight-puce-59.vercel.app/api?username=SDeveloperZ&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&border_radius=8"
+      />
+    </td>
+    <td>
+      <img
+        width="500"
+        src="https://github-readme-stats-eight-puce-59.vercel.app/api/top-langs/?username=SDeveloperZ&layout=compact&theme=algolia&bg_color=0,000000,130F40&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"
+      />
+    </td>
+  </tr>
+</table>
 
 
 
