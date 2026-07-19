@@ -52,7 +52,8 @@
 
 ## 👨🏻‍💻 GitHub Stats
 
-![Sergio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SDeveloperZ&show_icons=true&theme=algolia&count_private=true)
+![Sergio's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=SDeveloperZ&show_icons=true&theme=algolia&count_private=true](https://github-readme-stats-eight-puce-59.vercel.app/api?username=SDeveloperZ))
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SDeveloperZ&layout=compact&theme=algolia)
 
