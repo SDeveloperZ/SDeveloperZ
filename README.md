@@ -56,9 +56,8 @@
   <tr>
     <td>
       <img
-        width="500"
-        src="https://github-readme-stats-eight-puce-59.vercel.app/api?username=SDeveloperZ&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&border_radius=8"
-      />
+src="https://github-readme-stats-eight-puce-59.vercel.app/api?username=SDeveloperZ&show_icons=true&count_private=true&include_all_commits=true&theme=algolia"
+/>
     </td>
     <td>
       <img
