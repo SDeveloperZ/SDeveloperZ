@@ -56,19 +56,17 @@
   <tr>
     <td>
       <img
-src="https://github-stats-murex-eta.vercel.app/api?username=SDeveloperZ&show_icons=true&count_private=true&include_all_commits=true&theme=algolia"
+src="https://github-readme-stats-eight-puce-59.vercel.app/api?username=SDeveloperZ&show_icons=true&count_private=true&include_all_commits=true&theme=algolia"
 />
     </td>
     <td>
       <img
         width="500"
-        src="https://github-stats-murex-eta.vercel.app/api/top-langs/?username=SDeveloperZ&layout=compact&theme=algolia&bg_color=0,000000,130F40&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"
+        src="https://github-readme-stats-eight-puce-59.vercel.app/api/top-langs/?username=SDeveloperZ&layout=compact&theme=algolia&bg_color=0,000000,130F40&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"
       />
     </td>
   </tr>
 </table>
-
-https://github-stats-murex-eta.vercel.app/
 
 ## 🤝🏻  Connect with Me
 <h3 align="center">Connect with me</h3>
