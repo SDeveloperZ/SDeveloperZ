@@ -52,18 +52,17 @@
 
 ## 👨🏻‍💻 GitHub Stats
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=SDeveloperZ&show_icons=true&include_all_commits=true&theme=algolia&cache_seconds=86400"
-        alt="GitHub Stats"
-      />
+src="https://github-readme-stats-eight-puce-59.vercel.app/api?username=SDeveloperZ&show_icons=true&count_private=true&include_all_commits=true&theme=algolia"
+/>
     </td>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDeveloperZ&layout=compact&theme=algolia&langs_count=20&hide=hack,swift,kotlin,objective-c&cache_seconds=86400"
-        alt="Top Languages"
+        width="500"
+        src="https://github-readme-stats-eight-puce-59.vercel.app/api/top-langs/?username=SDeveloperZ&layout=compact&theme=algolia&bg_color=0,000000,130F40&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"
       />
     </td>
   </tr>
