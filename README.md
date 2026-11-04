@@ -50,23 +50,27 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
+
 ## 👨🏻‍💻 GitHub Stats
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
       <img
-src="https://github-readme-stats-eight-puce-59.vercel.app/api?username=SDeveloperZ&show_icons=true&count_private=true&include_all_commits=true&theme=algolia"
-/>
+        src="https://github-stats-murex-eta.vercel.app/api?username=SDeveloperZ&show_icons=true&count_private=true&include_all_commits=true&theme=algolia"
+        alt="GitHub Stats"
+      />
     </td>
     <td>
       <img
         width="500"
-        src="https://github-readme-stats-eight-puce-59.vercel.app/api/top-langs/?username=SDeveloperZ&layout=compact&theme=algolia&bg_color=0,000000,130F40&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"
+        src="https://github-stats-murex-eta.vercel.app/api/top-langs/?username=SDeveloperZ&layout=compact&theme=algolia&bg_color=0,000000,130F40&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"
+        alt="Top Languages"
       />
     </td>
   </tr>
 </table>
+
 
 ## 🤝🏻  Connect with Me
 <h3 align="center">Connect with me</h3>
